@@ -28,8 +28,8 @@ I'm a Swedish student studying IT at KTH Royal Institute of Technology
 # 📊 GitHub Stats:
 
   <p align="center" width="100%">
-     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicassos&show_icons=true&locale=en&layout=compact" alt="vicassos" /></p>
      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicassos&show_icons=true&locale=en" alt="vicassos" /></p>
+     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicassos&show_icons=true&locale=en&layout=compact" alt="vicassos" /></p>
 </p>
 <p align="center" width="100%">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=VicassoS&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117&sideLabels=ADBAC7&currStreakLabel=FF6600&border=30363D&stroke=0D1117&ring=FF6600&fire=FF6600&dates=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7">

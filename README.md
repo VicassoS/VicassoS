@@ -28,21 +28,12 @@ I'm a Swedish student studying IT at KTH Royal Institute of Technology
 # 📊 GitHub Stats:
 
   <p align="center" width="100%">
-     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicassos&show_icons=true&locale=en" alt="vicassos" /></p>
-     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicassos&show_icons=true&locale=en&layout=compact" alt="vicassos" /></p>
+    <img src="https://raw.githubusercontent.com/VicassoS/Stats/master/generated/overview.svg#gh-dark-mode-only">
+    <img src="https://raw.githubusercontent.com/VicassoS/Stats/master/generated/languages.svg#gh-dark-mode-only">
 </p>
 <p align="center" width="100%">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=VicassoS&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117&sideLabels=ADBAC7&currStreakLabel=FF6600&border=30363D&stroke=0D1117&ring=FF6600&fire=FF6600&dates=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7">
 </p>
-
-
-  
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=VicassoS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VicassoS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=VicassoS&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-###
 
 
 

@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Viggo</h1>
-<h3 align="center">A data scientist student at KTH</h3>
+<h1 align="center">Hi 👋, I'm Viggo Schütt</h1>
+<h3 align="center">An ICT student at KTH</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>

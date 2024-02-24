@@ -19,29 +19,17 @@ Here are some ideas to get you started:
 ###
 
 # 💫 About Me:
-I'm a Swedish student studying IT at KTH Royal Institute of Technology
+Hello
 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VicassoS&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=VicassoS&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VicassoS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <p align="center" width="100%">
-    <img src="https://raw.githubusercontent.com/VicassoS/Stats/master/generated/overview.svg#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/VicassoS/Stats/master/generated/languages.svg#gh-dark-mode-only">
-</p>
-<p align="center" width="100%">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=VicassoS&theme=dark&date_format=j%20M%5B%20Y%5D&background=0D1117&sideLabels=ADBAC7&currStreakLabel=FF6600&border=30363D&stroke=0D1117&ring=FF6600&fire=FF6600&dates=ADBAC7&currStreakNum=ADBAC7&sideNums=ADBAC7">
-</p>
-
-
-
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VicassoS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

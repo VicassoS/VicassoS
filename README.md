@@ -29,8 +29,8 @@ I'm a [Your Title] based in [Your Location]. I have a passion for [Your Interest
 Here are some projects that I've worked on:
 
 1. [Fault with Curiosity](https://github.com/CodenameAlphamale/FaultWithCuriosity): A [Brief Description of Project 1].
-2. [Project 2 Name](https://github.com/YourGitHubUsername/Project2): A [Brief Description of Project 2].
-3. [Project 3 Name](https://github.com/YourGitHubUsername/Project3): A [Brief Description of Project 3].
+2. [Snake](https://github.com/YourGitHubUsername/Project2): A [Brief Description of Project 2].
+3. [HTTP](https://github.com/YourGitHubUsername/Project3): A [Brief Description of Project 3].
 
 ---
 

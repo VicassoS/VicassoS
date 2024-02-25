@@ -33,5 +33,5 @@ Here are some projects that I've worked on:
 <!-- Contact Me -->
 ### Contact Me
 
-Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/YourLinkedInUsername) or [Twitter](https://twitter.com/YourTwitterUsername). I'm always open to new opportunities and collaborations!
+Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/YourLinkedInUsername) or [YourEmailAddress](mailto:youremail@example.com). I'm always open to new opportunities and collaborations!
 

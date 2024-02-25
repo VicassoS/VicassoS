@@ -9,9 +9,8 @@
 
 
 <!-- Badges -->
-[![Website](https://img.shields.io/badge/Website-YourWebsite.com-blue?style=flat-square&logo=appveyor)](https://your-website.com)
+[![Mail](https://img.shields.io/badge/Website-YourWebsite.com-blue?style=flat-square&logo=appveyor)](https://your-website.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viggo_Schutt-blue?style=flat-square&logo=appveyor)](https://linkedin.com/in/viggo-ossian-schütt-2a888b2b3)  
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitterUsername-blue?style=flat-square&logo=appveyor)](https://twitter.com/your-twitter-username)
 
 ---
 

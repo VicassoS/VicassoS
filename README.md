@@ -7,8 +7,6 @@
 # Hi there 👋
 ## I'm Viggo
 
-<!-- Profile Image -->
-<img src="https://avatars.githubusercontent.com/u/12345678?s=400&u=abcde1234567890abcdef1234567890abcdef12&v=4" alt="Your Name" height="200" width="200">
 
 <!-- Badges -->
 [![Website](https://img.shields.io/badge/Website-YourWebsite.com-blue?style=flat-square&logo=appveyor)](https://your-website.com)

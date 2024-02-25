@@ -19,7 +19,7 @@ I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VicassoS&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicassoS&layout=compact&langs_count=8&card_width=300theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicassoS&layout=compact&langs_count=8&card_width=300&theme=transparent" />
 </a>
 
 ---

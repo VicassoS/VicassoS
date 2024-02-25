@@ -29,13 +29,3 @@ Hello
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VicassoS&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VicassoS&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-
-
-<div align="center">
-<a href="https://github.com/VicassoS">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VicassoS&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VicassoS&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VicassoS&theme=2077" height="180em" />
-</div>

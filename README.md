@@ -16,6 +16,7 @@ I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I
 
 <!-- GitHub Stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VicassoS&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VicassoS&theme=transparent)
 
 ---
 

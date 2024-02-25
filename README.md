@@ -16,10 +16,10 @@ I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I
 
 <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VicassoS&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VicassoS" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicassoS&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicassoS&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ---

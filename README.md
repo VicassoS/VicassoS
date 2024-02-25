@@ -33,7 +33,7 @@ Here are some projects that I've worked on:
 
 1. [Fault with Curiosity](https://github.com/CodenameAlphamale/FaultWithCuriosity): A [Brief Description of Project 1].
 2. [Snake](https://github.com/YourGitHubUsername/Project2): A [Brief Description of Project 2].
-3. [HTTP](https://github.com/YourGitHubUsername/Project3): A [Brief Description of Project 3].
+3. [HTTP](https://github.com/VicassoS/IK1203-Natverk-och-kommunikation): A [Brief Description of Project 3].
 
 ---
 

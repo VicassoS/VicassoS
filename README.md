@@ -34,17 +34,6 @@ Here are some projects that I've worked on:
 
 ---
 
-<!-- Contributions -->
-### Contributions
-
-I've also contributed to open-source projects:
-
-1. [Contribution 1 Name](https://github.com/Contribution1): A [Brief Description of Contribution 1].
-2. [Contribution 2 Name](https://github.com/Contribution2): A [Brief Description of Contribution 2].
-3. [Contribution 3 Name](https://github.com/Contribution3): A [Brief Description of Contribution 3].
-
----
-
 <!-- Contact Me -->
 ### Contact Me
 

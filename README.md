@@ -1,7 +1,4 @@
 
-<!--
-**VicassoS/VicassoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <!-- Your GitHub README -->
 <!-- Headings -->
 # Hi there 👋
@@ -15,7 +12,7 @@
 ---
 
 <!-- Introduction -->
-I'm a [Your Title] based in [Your Location]. I have a passion for [Your Interests] and I love to [Your Hobbies].
+I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I have a passion for [Your Interests] and I love to [Your Hobbies].
 
 <!-- GitHub Stats -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VicassoS&show_icons=true&theme=transparent)

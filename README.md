@@ -9,7 +9,7 @@
 
 
 <!-- Badges -->
-[![Mail](https://img.shields.io/badge/Mail-YourEmailAddress-blue?style=flat-square&logo=appveyor)](mailto:youremail@example.com)
+[![Mail](https://img.shields.io/badge/Mail-vschutt@kth.se-blue?style=flat-square&logo=appveyor)](mailto:vschutt@kth.se)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viggo_Schütt-blue?style=flat-square&logo=appveyor)](https://linkedin.com/in/viggo-ossian-schütt-2a888b2b3)  
 
 ---

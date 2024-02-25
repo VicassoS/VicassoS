@@ -42,7 +42,3 @@ Here are some projects that I've worked on:
 
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/viggo-ossian-schütt-2a888b2b3) or [vschutt@kth.se](mailto:vschutt@kth.se). I'm always open to new opportunities and collaborations!
 
-
----
-[![](https://visitcount.itsvg.in/api?id=VicassoS&icon=0&color=0)](https://visitcount.itsvg.in)
-

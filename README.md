@@ -19,7 +19,7 @@
 I'm a [Your Title] based in [Your Location]. I have a passion for [Your Interests] and I love to [Your Hobbies].
 
 <!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VicassoS&show_icons=true&theme=dark)
 
 ---
 

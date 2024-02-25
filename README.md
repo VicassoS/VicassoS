@@ -14,7 +14,7 @@
 ---
 
 <!-- Introduction -->
-I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I have a passion for [Your Interests] and I love to [Your Hobbies].
+I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I have a passion for music, technology and innovations, and I love to [Your Hobbies].
 
 <!-- GitHub Stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">

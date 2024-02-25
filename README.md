@@ -14,7 +14,7 @@
 ---
 
 <!-- Introduction -->
-I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I have a passion for music, technology and innovations, and I love to [Your Hobbies].
+I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I have a passion for music, technology and innovations, and I love to hike in my free time.
 
 <!-- GitHub Stats -->
 <a href="https://github-readme-stats.vercel.app/api?username=VicassoS&theme=transparent">

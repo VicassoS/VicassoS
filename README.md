@@ -15,8 +15,12 @@
 I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I have a passion for [Your Interests] and I love to [Your Hobbies].
 
 <!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VicassoS&show_icons=true&theme=transparent)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VicassoS&theme=transparent&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VicassoS" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicassoS&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
@@ -37,9 +41,4 @@ Here are some projects that I've worked on:
 Feel free to reach out to me on [LinkedIn](https://linkedin.com/in/YourLinkedInUsername) or [YourEmailAddress](mailto:youremail@example.com). I'm always open to new opportunities and collaborations!
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VicassoS" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VicassoS&layout=compact&langs_count=8&card_width=320" />
-</a>
+

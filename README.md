@@ -32,8 +32,8 @@ I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I
 Here are some projects that I've worked on:
 
 1. [Fault with Curiosity](https://github.com/CodenameAlphamale/FaultWithCuriosity): A 3D Horror Puzzle Game made in Unity.
-2. [Snake](https://github.com/VicassoS/IS1200-Datorteknik/tree/main/miniprojekt): The classical game Snake made for the UNO32 ChipKIT Microcontroller.
-3. [HTTP](https://github.com/VicassoS/IK1203-Natverk-och-kommunikation): A [Brief Description of Project 3].
+2. [Snake](https://github.com/VicassoS/IS1200-Datorteknik/tree/main/miniprojekt): The Classical Game Snake made for the UNO32 ChipKIT Microcontroller.
+3. [HTTP](https://github.com/VicassoS/IK1203-Natverk-och-kommunikation): HTTP Request Handlers.
 
 ---
 

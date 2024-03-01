@@ -35,6 +35,18 @@ Here are some projects that I've worked on:
 2. [Snake](https://github.com/VicassoS/IS1200-Datorteknik/tree/main/miniprojekt): The Classic Game Snake made for the UNO32 ChipKIT Microcontroller made in C and Assembly. Team of 2 developers, key features include 1v1, singleplayer, menu, high score, and external mechanical keys. Part of course IS1200, Computer Hardware Engineering 
 3. [HTTP Handlers](https://github.com/VicassoS/IK1203-Natverk-och-kommunikation): HTTP Request Handlers written in Java. reads the HTTP GET request in order to send data to other websites, receive the data and display it on the web browser, concurrency,  include HTTP Error Handling. Part of course IK1203, networks and communications  
 
+## 1. Fault with Curiosity
+- **Description:** A 3D horror puzzle game made in Unity, with code written in C# and a map created using Blender. Developed as part of a team of 9 developers for the II1305 course, Project in Information and Communication Technology. Key features include LAN multiplayer, an inventory system, a flashlight, camera mechanics, a 3D environment, a Character Controller, and individual enemy AI.
+- **Link:** [Fault with Curiosity](https://github.com/CodenameAlphamale/FaultWithCuriosity)
+
+## 2. Snake
+- **Description:** The classic game Snake made for the UNO32 ChipKIT Microcontroller using C and Assembly. Was developed as a team of 2 developers for the IS1200 course, Computer Hardware Engineering. Key features include 1v1 mode, single-player mode, menu system, high-score tracking, and external mechanical key inputs.
+- **Link:** [Snake](https://github.com/VicassoS/IS1200-Datorteknik/tree/main/miniprojekt)
+
+## 3. HTTP
+- **Description:** HTTP Request Handlers implemented in Java, designed to process HTTP GET requests to send and receive data from other websites. Developed as part of the IK1203 course, Networks and Communications, focusing on concurrency and HTTP error handling.
+- **Link:** [HTTP](https://github.com/VicassoS/IK1203-Natverk-och-kommunikation)
+
 ---
 
 <!-- Contact Me -->

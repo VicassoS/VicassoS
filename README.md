@@ -32,7 +32,7 @@ I'm a student at KTH Royal Institute of Technology based in Stockholm, Sweden. I
 Here are some projects that I've worked on:
 
 1. [Fault with Curiosity](https://github.com/CodenameAlphamale/FaultWithCuriosity): A 3D horror puzzle game created in Unity, with code written in C# and maps designed in Blender. Developed as a collaborative project for the II1305 course, Project in Information and Communication Technology at KTH Royal Institute of Technology. Key features include LAN multiplayer, an inventory system, flashlight and camera mechanics, a 3D environment, Character Controller, and individual enemy AI. 
-2. [Snake](https://github.com/VicassoS/IS1200-Datorteknik/tree/main/miniprojekt): The Classic Game Snake made for the UNO32 ChipKIT Microcontroller made in C and Assembly. Team of 2 developers, key features include 1v1, singleplayer, menu, high score, and external mechanical keys. Part of course IS1200, Computer Hardware Engineering 
+2. [Snake](https://github.com/VicassoS/IS1200-Datorteknik/tree/main/miniprojekt): A classic game of Snake implemented for the UNO32 ChipKIT Microcontroller using C and Assembly. Developed as a two-person project for the IS1200 course, Computer Hardware Engineering at KTH Royal Institute of Technology. Key features include a 1v1 mode, single-player mode, menu system, high-score tracking, and external mechanical key inputs. 
 3. [HTTP Handlers](https://github.com/VicassoS/IK1203-Natverk-och-kommunikation): HTTP Request Handlers written in Java. reads the HTTP GET request in order to send data to other websites, receive the data and display it on the web browser, concurrency,  include HTTP Error Handling. Part of course IK1203, networks and communications  
 
 ## 1. Fault with Curiosity
